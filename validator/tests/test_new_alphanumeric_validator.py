@@ -6,7 +6,7 @@ pela Receita Federal para implementação a partir de 2026.
 """
 
 import pytest
-from src.cnpj_validator.validators.new_alphanumeric_validator import NewAlphanumericCNPJValidator
+from cnpj_validator.validators.new_alphanumeric_validator import NewAlphanumericCNPJValidator
 
 
 class TestNewAlphanumericCNPJValidator:
